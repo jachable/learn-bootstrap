@@ -17,11 +17,7 @@ body {
  }
 
  .row {
-    border: 3px solid blue;
- }
-
- .row>*{
-     border: 1px solid green;
+    border: 1px solid blue;
  }
 
  .servicios>*{
@@ -31,4 +27,8 @@ body {
  .servicios{
     border: 1px solid green;
     height: 75px;
+ }
+
+ p {
+     border: 5px solid yellow;
  }
