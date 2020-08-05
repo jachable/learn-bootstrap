@@ -23,26 +23,3 @@ body {
  .servicios>*{
     border: 1px solid red;
  }
-
- .servicios{
-    border: 1px solid green;
-    height: 75px;
- }
-
- p {
-    border: 5px solid yellow;
- }
-
- p.f {
-     display: flex;
-     justify-content:center;
- }
-
- p.g {
-     display: inline-flex;
-     justify-content:center;
- }
-
- a {
-     color: black;
- }
